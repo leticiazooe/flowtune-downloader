@@ -1,8 +1,6 @@
 
 # FlowTune Downloader
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
-
 O FlowTune é uma ferramenta desktop de alto desempenho para baixar vídeos e playlists completas do YouTube com facilidade. Desenvolvido em Python, ele oferece uma experiência visual moderna e feedback em tempo real sobre o status dos seus downloads.
 
 ## Programa:
